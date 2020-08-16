@@ -1,0 +1,4916 @@
+fileFormatVersion: 2
+guid: 2f8b87dc8a8cc4d2ea55108dc16f81b6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3225246941684271095
+    second: Juju Shake Fists_0
+  - first:
+      213: -8789038434530633019
+    second: Juju Shake Fists_1
+  - first:
+      213: -2484852542187645945
+    second: Juju Shake Fists_2
+  - first:
+      213: -8126820276175239333
+    second: Juju Shake Fists_3
+  - first:
+      213: 5049093523017701929
+    second: Juju Shake Fists_4
+  - first:
+      213: 1417016789495825731
+    second: Juju Shake Fists_5
+  - first:
+      213: -1645435571135979299
+    second: Juju Shake Fists_6
+  - first:
+      213: -8815802803483059045
+    second: Juju Shake Fists_7
+  - first:
+      213: -2137521309685631259
+    second: Juju Shake Fists_8
+  - first:
+      213: -5985366663578897860
+    second: Juju Shake Fists_9
+  - first:
+      213: -2318687776414736117
+    second: Juju Shake Fists_10
+  - first:
+      213: 1347210043524769433
+    second: Juju Shake Fists_11
+  - first:
+      213: 1268061719448502320
+    second: Juju Shake Fists_12
+  - first:
+      213: 4719030915014161727
+    second: Juju Shake Fists_13
+  - first:
+      213: -4721839070082367058
+    second: Juju Shake Fists_14
+  - first:
+      213: -3294161063672793666
+    second: Juju Shake Fists_15
+  - first:
+      213: -1630177973399853302
+    second: Juju Shake Fists_16
+  - first:
+      213: -767331879722895783
+    second: Juju Shake Fists_17
+  - first:
+      213: -1375153899570014875
+    second: Juju Shake Fists_18
+  - first:
+      213: -6468872021529083976
+    second: Juju Shake Fists_19
+  - first:
+      213: -1100037063564568994
+    second: Juju Shake Fists_20
+  - first:
+      213: 4155931036750572867
+    second: Juju Shake Fists_21
+  - first:
+      213: -1342092282555256608
+    second: Juju Shake Fists_22
+  - first:
+      213: 203147013179017227
+    second: Juju Shake Fists_23
+  - first:
+      213: -3728564858912051359
+    second: Juju Shake Fists_24
+  - first:
+      213: -5153875348680173451
+    second: Juju Shake Fists_25
+  - first:
+      213: 5109050256569263143
+    second: Juju Shake Fists_26
+  - first:
+      213: -4667910446687374238
+    second: Juju Shake Fists_27
+  - first:
+      213: 3967613273367655270
+    second: Juju Shake Fists_28
+  - first:
+      213: 554122826652542864
+    second: Juju Shake Fists_29
+  - first:
+      213: 6781547437929241290
+    second: Juju Shake Fists_30
+  - first:
+      213: 118683023645877522
+    second: Juju Shake Fists_31
+  - first:
+      213: 5358109904042691027
+    second: Juju Shake Fists_32
+  - first:
+      213: 6186597945109990343
+    second: Juju Shake Fists_33
+  - first:
+      213: 8208593919083250231
+    second: Juju Shake Fists_34
+  - first:
+      213: -5177281684402581359
+    second: Juju Shake Fists_35
+  - first:
+      213: -52342551219652388
+    second: Juju Shake Fists_36
+  - first:
+      213: -3982304061345171441
+    second: Juju Shake Fists_37
+  - first:
+      213: -3304619867492027596
+    second: Juju Shake Fists_38
+  - first:
+      213: 6632583290918849319
+    second: Juju Shake Fists_39
+  - first:
+      213: 3697263879989513687
+    second: Juju Shake Fists_40
+  - first:
+      213: 8317688480849334074
+    second: Juju Shake Fists_41
+  - first:
+      213: -7176332470236900325
+    second: Juju Shake Fists_42
+  - first:
+      213: 632541548275094593
+    second: Juju Shake Fists_43
+  - first:
+      213: 7052798076686416139
+    second: Juju Shake Fists_44
+  - first:
+      213: -4193880962301941238
+    second: Juju Shake Fists_45
+  - first:
+      213: 7569406822721775092
+    second: Juju Shake Fists_46
+  - first:
+      213: 1149159540970771368
+    second: Juju Shake Fists_47
+  - first:
+      213: -5859380589646777258
+    second: Juju Shake Fists_48
+  - first:
+      213: 6875059660382917780
+    second: Juju Shake Fists_49
+  - first:
+      213: 1154182749788968404
+    second: Juju Shake Fists_50
+  - first:
+      213: 5287416807363250758
+    second: Juju Shake Fists_51
+  - first:
+      213: -4150688280196709458
+    second: Juju Shake Fists_52
+  - first:
+      213: 4304610676422504485
+    second: Juju Shake Fists_53
+  - first:
+      213: 523897674891523665
+    second: Juju Shake Fists_54
+  - first:
+      213: -5529259259471113150
+    second: Juju Shake Fists_55
+  - first:
+      213: -6776350001945664861
+    second: Juju Shake Fists_56
+  - first:
+      213: 337653217273282653
+    second: Juju Shake Fists_57
+  - first:
+      213: 7037143561437263947
+    second: Juju Shake Fists_58
+  - first:
+      213: -2002057426736684017
+    second: Juju Shake Fists_59
+  - first:
+      213: 4928105476703385593
+    second: Juju Shake Fists_60
+  - first:
+      213: 182069920057546668
+    second: Juju Shake Fists_61
+  - first:
+      213: -3118081549600670576
+    second: Juju Shake Fists_62
+  - first:
+      213: -5495128592056260167
+    second: Juju Shake Fists_63
+  - first:
+      213: -2649368646252439095
+    second: Juju Shake Fists_64
+  - first:
+      213: 6295260761409247640
+    second: Juju Shake Fists_65
+  - first:
+      213: 5642035484328333955
+    second: Juju Shake Fists_66
+  - first:
+      213: 1254090555673070913
+    second: Juju Shake Fists_67
+  - first:
+      213: -5565917773973687844
+    second: Juju Shake Fists_68
+  - first:
+      213: 34989666238804173
+    second: Juju Shake Fists_69
+  - first:
+      213: -3555895215673703759
+    second: Juju Shake Fists_70
+  - first:
+      213: 2232340276987392146
+    second: Juju Shake Fists_71
+  - first:
+      213: 1944757883002535916
+    second: Juju Shake Fists_72
+  - first:
+      213: 6690618205046352283
+    second: Juju Shake Fists_73
+  - first:
+      213: 4238677131338464907
+    second: Juju Shake Fists_74
+  - first:
+      213: -1867819347655222518
+    second: Juju Shake Fists_75
+  - first:
+      213: 2577703066853470555
+    second: Juju Shake Fists_76
+  - first:
+      213: 4795064992814860046
+    second: Juju Shake Fists_77
+  - first:
+      213: -8822307550152822757
+    second: Juju Shake Fists_78
+  - first:
+      213: -5860764459457598558
+    second: Juju Shake Fists_79
+  - first:
+      213: 1249220570202452780
+    second: Juju Shake Fists_80
+  - first:
+      213: 7302384720847022924
+    second: Juju Shake Fists_81
+  - first:
+      213: -3568864747758404432
+    second: Juju Shake Fists_82
+  - first:
+      213: 4493804823643045961
+    second: Juju Shake Fists_83
+  - first:
+      213: 2023031781643332161
+    second: Juju Shake Fists_84
+  - first:
+      213: 8914316498036995946
+    second: Juju Shake Fists_85
+  - first:
+      213: 6226413952776020175
+    second: Juju Shake Fists_86
+  - first:
+      213: -3825545702859448767
+    second: Juju Shake Fists_87
+  - first:
+      213: 4329309424896969069
+    second: Juju Shake Fists_88
+  - first:
+      213: 500653439064626732
+    second: Juju Shake Fists_89
+  - first:
+      213: -2698428019483531674
+    second: Juju Shake Fists_90
+  - first:
+      213: 3729900151128249364
+    second: Juju Shake Fists_91
+  - first:
+      213: -4072605213059234401
+    second: Juju Shake Fists_92
+  - first:
+      213: 5714407926767411169
+    second: Juju Shake Fists_93
+  - first:
+      213: 253444442273179910
+    second: Juju Shake Fists_94
+  - first:
+      213: -6584120426348344453
+    second: Juju Shake Fists_95
+  - first:
+      213: 8522589694942458719
+    second: Juju Shake Fists_96
+  - first:
+      213: 41431468309297680
+    second: Juju Shake Fists_97
+  - first:
+      213: -4102405063547485563
+    second: Juju Shake Fists_98
+  - first:
+      213: 1494154402743108646
+    second: Juju Shake Fists_99
+  - first:
+      213: -1023074812649957030
+    second: Juju Shake Fists_100
+  - first:
+      213: 6098951871653484088
+    second: Juju Shake Fists_101
+  - first:
+      213: 1356200869942456979
+    second: Juju Shake Fists_102
+  - first:
+      213: 5536952965312050556
+    second: Juju Shake Fists_103
+  - first:
+      213: 2049859995693418592
+    second: Juju Shake Fists_104
+  - first:
+      213: -2806793519310646890
+    second: Juju Shake Fists_105
+  - first:
+      213: 3551659615565786408
+    second: Juju Shake Fists_106
+  - first:
+      213: -3911106472038168174
+    second: Juju Shake Fists_107
+  - first:
+      213: 8765200859513319179
+    second: Juju Shake Fists_108
+  - first:
+      213: -6991676788179798994
+    second: Juju Shake Fists_109
+  - first:
+      213: -8250314293613722429
+    second: Juju Shake Fists_110
+  - first:
+      213: -5866262626799180218
+    second: Juju Shake Fists_111
+  - first:
+      213: 845436460918912737
+    second: Juju Shake Fists_112
+  - first:
+      213: 3358345879235236505
+    second: Juju Shake Fists_113
+  - first:
+      213: 1493118081268785280
+    second: Juju Shake Fists_114
+  - first:
+      213: -2627684428604703531
+    second: Juju Shake Fists_115
+  - first:
+      213: -6165488623252199843
+    second: Juju Shake Fists_116
+  - first:
+      213: 4890740828638395505
+    second: Juju Shake Fists_117
+  - first:
+      213: 1383069034156170090
+    second: Juju Shake Fists_118
+  - first:
+      213: 3875563590680766751
+    second: Juju Shake Fists_119
+  - first:
+      213: -2193820544828462796
+    second: Juju Shake Fists_120
+  - first:
+      213: -6051220249064380695
+    second: Juju Shake Fists_121
+  - first:
+      213: 3032158965635366817
+    second: Juju Shake Fists_122
+  - first:
+      213: 4305181936124374064
+    second: Juju Shake Fists_123
+  - first:
+      213: 7918922159285975614
+    second: Juju Shake Fists_124
+  - first:
+      213: -8526086166282783271
+    second: Juju Shake Fists_125
+  - first:
+      213: 2484228486814044050
+    second: Juju Shake Fists_126
+  - first:
+      213: 361810267894799728
+    second: Juju Shake Fists_127
+  - first:
+      213: 1660536397010362337
+    second: Juju Shake Fists_128
+  - first:
+      213: 3308839295146475874
+    second: Juju Shake Fists_129
+  - first:
+      213: -5084922364314167215
+    second: Juju Shake Fists_130
+  - first:
+      213: 6057418015683056795
+    second: Juju Shake Fists_131
+  - first:
+      213: 2222807995557341039
+    second: Juju Shake Fists_132
+  - first:
+      213: 5080189465208925833
+    second: Juju Shake Fists_133
+  - first:
+      213: 4226299057695949665
+    second: Juju Shake Fists_134
+  - first:
+      213: -2009746854630468113
+    second: Juju Shake Fists_135
+  - first:
+      213: 4367397256514396189
+    second: Juju Shake Fists_136
+  - first:
+      213: 6361927738548280158
+    second: Juju Shake Fists_137
+  - first:
+      213: -5903342276465617736
+    second: Juju Shake Fists_138
+  - first:
+      213: -2695212439987440389
+    second: Juju Shake Fists_139
+  - first:
+      213: 5443163452245623379
+    second: Juju Shake Fists_140
+  - first:
+      213: 6598405773252802909
+    second: Juju Shake Fists_141
+  - first:
+      213: 1531587572288770086
+    second: Juju Shake Fists_142
+  - first:
+      213: 7049220031321930650
+    second: Juju Shake Fists_143
+  - first:
+      213: 7574831286026619169
+    second: Juju Shake Fists_144
+  - first:
+      213: 7687928935369850378
+    second: Juju Shake Fists_145
+  - first:
+      213: -1242364702016025524
+    second: Juju Shake Fists_146
+  - first:
+      213: 8597218851832010265
+    second: Juju Shake Fists_147
+  - first:
+      213: -4527108348221653740
+    second: Juju Shake Fists_148
+  - first:
+      213: -1014764486458301240
+    second: Juju Shake Fists_149
+  - first:
+      213: -4643270524347401841
+    second: Juju Shake Fists_150
+  - first:
+      213: 6897064912320496665
+    second: Juju Shake Fists_151
+  - first:
+      213: -5970854792201922457
+    second: Juju Shake Fists_152
+  - first:
+      213: 3288794230134969925
+    second: Juju Shake Fists_153
+  - first:
+      213: 3347812618071102925
+    second: Juju Shake Fists_154
+  - first:
+      213: -276489793603072163
+    second: Juju Shake Fists_155
+  - first:
+      213: 3652773472335355380
+    second: Juju Shake Fists_156
+  - first:
+      213: 9151259123891366738
+    second: Juju Shake Fists_157
+  - first:
+      213: 910960275203978728
+    second: Juju Shake Fists_158
+  - first:
+      213: -5866410951693873589
+    second: Juju Shake Fists_159
+  - first:
+      213: 4156445308711641648
+    second: Juju Shake Fists_160
+  - first:
+      213: 5739008283481137546
+    second: Juju Shake Fists_161
+  - first:
+      213: 547850297183814674
+    second: Juju Shake Fists_162
+  - first:
+      213: 7106130073429958074
+    second: Juju Shake Fists_163
+  - first:
+      213: -527999588853273500
+    second: Juju Shake Fists_164
+  - first:
+      213: 3518677195903802134
+    second: Juju Shake Fists_165
+  - first:
+      213: -6271629641314335339
+    second: Juju Shake Fists_166
+  - first:
+      213: -4571754589097503124
+    second: Juju Shake Fists_167
+  - first:
+      213: 1567948442168644188
+    second: Juju Shake Fists_168
+  - first:
+      213: 6621742602030051388
+    second: Juju Shake Fists_169
+  - first:
+      213: -1419701346030156330
+    second: Juju Shake Fists_170
+  - first:
+      213: -1009958772459538480
+    second: Juju Shake Fists_171
+  - first:
+      213: -4277365604220760183
+    second: Juju Shake Fists_172
+  - first:
+      213: 2985345213686664245
+    second: Juju Shake Fists_173
+  - first:
+      213: -5291687153286909041
+    second: Juju Shake Fists_174
+  - first:
+      213: -1176333853609652199
+    second: Juju Shake Fists_175
+  - first:
+      213: -5116987988403807048
+    second: Juju Shake Fists_176
+  - first:
+      213: 1055888816337197289
+    second: Juju Shake Fists_177
+  - first:
+      213: -1862639890119231359
+    second: Juju Shake Fists_178
+  - first:
+      213: 254374815837655256
+    second: Juju Shake Fists_179
+  - first:
+      213: 3766885883175446426
+    second: Juju Shake Fists_180
+  - first:
+      213: 1608672747422969506
+    second: Juju Shake Fists_181
+  - first:
+      213: 315186599698199131
+    second: Juju Shake Fists_182
+  - first:
+      213: 5381184051606162859
+    second: Juju Shake Fists_183
+  - first:
+      213: 6696758001207369800
+    second: Juju Shake Fists_184
+  - first:
+      213: 153212807915044202
+    second: Juju Shake Fists_185
+  - first:
+      213: 1576770289603245141
+    second: Juju Shake Fists_186
+  - first:
+      213: 7574887244756739184
+    second: Juju Shake Fists_187
+  - first:
+      213: 4180672686860277190
+    second: Juju Shake Fists_188
+  - first:
+      213: 8901377299810268345
+    second: Juju Shake Fists_189
+  - first:
+      213: 7867185752441155066
+    second: Juju Shake Fists_190
+  - first:
+      213: -2980689382024152991
+    second: Juju Shake Fists_191
+  - first:
+      213: 4524563822323142450
+    second: Juju Shake Fists_192
+  - first:
+      213: 8493098170172183985
+    second: Juju Shake Fists_193
+  - first:
+      213: -207967497192590567
+    second: Juju Shake Fists_194
+  - first:
+      213: 5311767542644965922
+    second: Juju Shake Fists_195
+  - first:
+      213: -8325303642579151977
+    second: Juju Shake Fists_196
+  - first:
+      213: -3672307223940427461
+    second: Juju Shake Fists_197
+  - first:
+      213: 7053549788173062497
+    second: Juju Shake Fists_198
+  - first:
+      213: -6188307842920195214
+    second: Juju Shake Fists_199
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Juju Shake Fists_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2508
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9087eff9efe9d33d0800000000000000
+      internalID: -3225246941684271095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_1
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 2508
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cadb803c10170680800000000000000
+      internalID: -8789038434530633019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_2
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 2508
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704dda737c7048dd0800000000000000
+      internalID: -2484852542187645945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_3
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2508
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57022d340cb73f80800000000000000
+      internalID: -8126820276175239333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_4
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 2508
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a1235decbf11640800000000000000
+      internalID: 5049093523017701929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_5
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 2508
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345c9aa23414aa310800000000000000
+      internalID: 1417016789495825731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_6
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 2508
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0e5a1e01d3a29e0800000000000000
+      internalID: -1645435571135979299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_7
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 2508
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9cdf70fe0af7a580800000000000000
+      internalID: -8815802803483059045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_8
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 2508
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e63c54a1bff552e0800000000000000
+      internalID: -2137521309685631259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2394
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c323ae63bb4bfeca0800000000000000
+      internalID: -5985366663578897860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_10
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 2394
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0162c590cd52dfd0800000000000000
+      internalID: -2318687776414736117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_11
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 2394
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996e122956042b210800000000000000
+      internalID: 1347210043524769433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_12
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2394
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030cff45a6f099110800000000000000
+      internalID: 1268061719448502320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 2394
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35718d5d9d5d7140800000000000000
+      internalID: 4719030915014161727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_14
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 2394
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea10e251268a87eb0800000000000000
+      internalID: -4721839070082367058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_15
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 2394
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb53cde37f9c842d0800000000000000
+      internalID: -3294161063672793666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_16
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 2394
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07e5de25c17069e0800000000000000
+      internalID: -1630177973399853302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_17
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 2394
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956b84c88b3e955f0800000000000000
+      internalID: -767331879722895783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2280
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 565d2a070d87aece0800000000000000
+      internalID: -1375153899570014875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_19
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 2280
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bfbb438b23f936a0800000000000000
+      internalID: -6468872021529083976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_20
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 2280
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5658727e12ebb0f0800000000000000
+      internalID: -1100037063564568994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_21
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2280
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34de9844245dca930800000000000000
+      internalID: 4155931036750572867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_22
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 2280
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e030820e2eef5de0800000000000000
+      internalID: -1342092282555256608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_23
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 2280
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0887b5d129b1d200800000000000000
+      internalID: 203147013179017227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_24
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 2280
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16fea8ef30a714cc0800000000000000
+      internalID: -3728564858912051359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_25
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 2280
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57896414da1c978b0800000000000000
+      internalID: -5153875348680173451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_26
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 2280
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724ed62b32ef6e640800000000000000
+      internalID: 5109050256569263143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2166
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2643ddd2e20483fb0800000000000000
+      internalID: -4667910446687374238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_28
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 2166
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6633435304bcf0730800000000000000
+      internalID: 3967613273367655270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_29
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 2166
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0976f8466c3a0b700800000000000000
+      internalID: 554122826652542864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_30
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2166
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca9b31f675ec1e50800000000000000
+      internalID: 6781547437929241290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_31
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 2166
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2152849c495a5a100800000000000000
+      internalID: 118683023645877522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_32
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 2166
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d987f9b194db5a40800000000000000
+      internalID: 5358109904042691027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_33
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 2166
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb41769d063bd550800000000000000
+      internalID: 6186597945109990343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_34
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 2166
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732836cada8cae170800000000000000
+      internalID: 8208593919083250231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_35
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 2166
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1905c0b0db99628b0800000000000000
+      internalID: -5177281684402581359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2052
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd83aeb1aba064ff0800000000000000
+      internalID: -52342551219652388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_37
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 2052
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08fceb2e830cb8c0800000000000000
+      internalID: -3982304061345171441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_38
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 2052
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43370783db1a322d0800000000000000
+      internalID: -3304619867492027596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_39
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2052
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72bc866bc5bab0c50800000000000000
+      internalID: 6632583290918849319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_40
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 2052
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd48afe8e15f4330800000000000000
+      internalID: 3697263879989513687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_41
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 2052
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f0265ba9d5e6370800000000000000
+      internalID: 8317688480849334074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_42
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 2052
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b149d61e3ab886c90800000000000000
+      internalID: -7176332470236900325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_43
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 2052
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144dc92df2d37c800800000000000000
+      internalID: 632541548275094593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_44
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 2052
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b09b371cb7290e160800000000000000
+      internalID: 7052798076686416139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1938
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a28b32c775cc5c0800000000000000
+      internalID: -4193880962301941238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_46
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1938
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5efbc966feb0960800000000000000
+      internalID: 7569406822721775092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_47
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1938
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a350d59382a2ff00800000000000000
+      internalID: 1149159540970771368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_48
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1938
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 654f846e56c4faea0800000000000000
+      internalID: -5859380589646777258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_49
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1938
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 494ddb2e55e196f50800000000000000
+      internalID: 6875059660382917780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_50
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1938
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d51e07881b740010800000000000000
+      internalID: 1154182749788968404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_51
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1938
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a0156829da06940800000000000000
+      internalID: 5287416807363250758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_52
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1938
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea38f7d100bc566c0800000000000000
+      internalID: -4150688280196709458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_53
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1938
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52074887a9c0dbb30800000000000000
+      internalID: 4304610676422504485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1824
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156ff8ad822454700800000000000000
+      internalID: 523897674891523665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_55
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1824
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2445f20bfff1443b0800000000000000
+      internalID: -5529259259471113150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_56
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1824
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2af4c639195f1a0800000000000000
+      internalID: -6776350001945664861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_57
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1824
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5087d8efc59fa400800000000000000
+      internalID: 337653217273282653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_58
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1824
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4835e4e8c4f8a160800000000000000
+      internalID: 7037143561437263947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_59
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1824
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f046d63b0634734e0800000000000000
+      internalID: -2002057426736684017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_60
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1824
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f7ff8222d5246440800000000000000
+      internalID: 4928105476703385593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_61
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1824
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7505da0a7d68200800000000000000
+      internalID: 182069920057546668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_62
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1824
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c3a57d9595ab4d0800000000000000
+      internalID: -3118081549600670576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1710
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9e463f8a16db3b0800000000000000
+      internalID: -5495128592056260167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_64
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1710
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c9d011d04d8b3bd0800000000000000
+      internalID: -2649368646252439095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_65
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1710
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 899d04c0f424d5750800000000000000
+      internalID: 6295260761409247640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_66
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1710
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3821a8551698c4e40800000000000000
+      internalID: 5642035484328333955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_67
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1710
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14dc01747bc676110800000000000000
+      internalID: 1254090555673070913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_68
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1710
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1f3492643e1c2b0800000000000000
+      internalID: -5565917773973687844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_69
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1710
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc039f28aee4c7000800000000000000
+      internalID: 34989666238804173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_70
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1710
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b2024b242ce6aec0800000000000000
+      internalID: -3555895215673703759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_71
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1710
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29071ab87addafe10800000000000000
+      internalID: 2232340276987392146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1596
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cefb186adfa2dfa10800000000000000
+      internalID: 1944757883002535916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_73
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1596
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b99ac8f1fc9d9dc50800000000000000
+      internalID: 6690618205046352283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_74
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1596
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e300bb46ec2da30800000000000000
+      internalID: 4238677131338464907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_75
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1596
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b986e033c2416e0800000000000000
+      internalID: -1867819347655222518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_76
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1596
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b517c343847d5c320800000000000000
+      internalID: 2577703066853470555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_77
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1596
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0704a3a43e7b8240800000000000000
+      internalID: 4795064992814860046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_78
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1596
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10f4e5960ed09580800000000000000
+      internalID: -8822307550152822757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_79
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1596
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ababc996c16aaea0800000000000000
+      internalID: -5860764459457598558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_80
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1596
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23370d6d7f165110800000000000000
+      internalID: 1249220570202452780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1482
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ba353c638475560800000000000000
+      internalID: 7302384720847022924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_82
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1482
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc327aab68d87ec0800000000000000
+      internalID: -3568864747758404432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_83
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1482
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9404e2b8da33d5e30800000000000000
+      internalID: 4493804823643045961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_84
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1482
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a2d2adfa0431c10800000000000000
+      internalID: 2023031781643332161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_85
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1482
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6736e8ff9306bb70800000000000000
+      internalID: 8914316498036995946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_86
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1482
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc020c7408aa86650800000000000000
+      internalID: 6226413952776020175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_87
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1482
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e5a0da37ee8eac0800000000000000
+      internalID: -3825545702859448767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_88
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1482
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d690cb9fbfbc41c30800000000000000
+      internalID: 4329309424896969069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_89
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1482
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26560776ada2f600800000000000000
+      internalID: 500653439064626732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1368
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66629be53024d8ad0800000000000000
+      internalID: -2698428019483531674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_91
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1368
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414dca3fc6443c330800000000000000
+      internalID: 3729900151128249364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_92
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1368
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f954335e2233b77c0800000000000000
+      internalID: -4072605213059234401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_93
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1368
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1efd5a0bbb7ad4f40800000000000000
+      internalID: 5714407926767411169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_94
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1368
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6096dff906a648300800000000000000
+      internalID: 253444442273179910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_95
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1368
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b0d1d3b5180a4a0800000000000000
+      internalID: -6584120426348344453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_96
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1368
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5333754c22564670800000000000000
+      internalID: 8522589694942458719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_97
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1368
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a391f63b1339000800000000000000
+      internalID: 41431468309297680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_98
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1368
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5820d7684545117c0800000000000000
+      internalID: -4102405063547485563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1254
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624c61f438d4cb410800000000000000
+      internalID: 1494154402743108646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_100
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1254
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59995dd0ee4dc1f0800000000000000
+      internalID: -1023074812649957030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_101
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1254
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8361c14e964d3a450800000000000000
+      internalID: 6098951871653484088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_102
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1254
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392fef8718132d210800000000000000
+      internalID: 1356200869942456979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_103
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1254
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75787bc26537dc40800000000000000
+      internalID: 5536952965312050556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_104
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1254
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06807923ec0927c10800000000000000
+      internalID: 2049859995693418592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_105
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1254
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 691de9b4a244c09d0800000000000000
+      internalID: -2806793519310646890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_106
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1254
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d26e45a970a4130800000000000000
+      internalID: 3551659615565786408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_107
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1254
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2990f67b265f8b9c0800000000000000
+      internalID: -3911106472038168174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1140
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f6d30edbf34a970800000000000000
+      internalID: 8765200859513319179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_109
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1140
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24f230310398fe90800000000000000
+      internalID: -6991676788179798994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_110
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1140
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c483dbacdef08d80800000000000000
+      internalID: -8250314293613722429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_111
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1140
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6462c72c839d69ea0800000000000000
+      internalID: -5866262626799180218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_112
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1140
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e63c3d5bf79bbb00800000000000000
+      internalID: 845436460918912737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_113
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1140
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99296bca8cd3b9e20800000000000000
+      internalID: 3358345879235236505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_114
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1140
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0802db9ebfe98b410800000000000000
+      internalID: 1493118081268785280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_115
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1140
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dcf03b2fe6988bd0800000000000000
+      internalID: -2627684428604703531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_116
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1140
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56275863c8cf6aa0800000000000000
+      internalID: -6165488623252199843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1026
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17cbd731fd66fd340800000000000000
+      internalID: 4890740828638395505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_118
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1026
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b98b075f5a13310800000000000000
+      internalID: 1383069034156170090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_119
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1026
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19e6f65d84c8c530800000000000000
+      internalID: 3875563590680766751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_120
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1026
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439ab8c76dbfd81e0800000000000000
+      internalID: -2193820544828462796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_121
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1026
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6edd48e3fb50ca0800000000000000
+      internalID: -6051220249064380695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_122
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1026
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af3631a384641a20800000000000000
+      internalID: 3032158965635366817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_123
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1026
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c2f1c39241fbb30800000000000000
+      internalID: 4305181936124374064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_124
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1026
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ab5346fb9a5ed60800000000000000
+      internalID: 7918922159285975614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_125
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1026
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5b75e0ec14da980800000000000000
+      internalID: -8526086166282783271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 912
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f057195a0c97220800000000000000
+      internalID: 2484228486814044050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_127
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 912
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d55fd8588650500800000000000000
+      internalID: 361810267894799728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_128
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 912
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1efd8602e096b0710800000000000000
+      internalID: 1660536397010362337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_129
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 912
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2614f06decb5bed20800000000000000
+      internalID: 3308839295146475874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_130
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 912
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1585d9cfc0abe69b0800000000000000
+      internalID: -5084922364314167215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_131
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 912
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9417d87795401450800000000000000
+      internalID: 6057418015683056795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_132
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 912
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67e713581009de10800000000000000
+      internalID: 2222807995557341039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_133
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 912
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ea5711765708640800000000000000
+      internalID: 5080189465208925833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_134
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 912
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1630980e994d6aa30800000000000000
+      internalID: 4226299057695949665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 798
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5da4142e1fb14e0800000000000000
+      internalID: -2009746854630468113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_136
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 798
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d106e835aac1c9c30800000000000000
+      internalID: 4367397256514396189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_137
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 798
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5bdfde329b1a4850800000000000000
+      internalID: 6361927738548280158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_138
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 798
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b498bf0a7d131ea0800000000000000
+      internalID: -5903342276465617736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_139
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 798
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4b550d09ea89ad0800000000000000
+      internalID: -2695212439987440389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_140
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 798
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3524d7912500a8b40800000000000000
+      internalID: 5443163452245623379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_141
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 798
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d59be96471f329b50800000000000000
+      internalID: 6598405773252802909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_142
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 798
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620dca448ca414510800000000000000
+      internalID: 1531587572288770086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_143
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 798
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9bf286254cd3d160800000000000000
+      internalID: 7049220031321930650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 684
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129c125ebe43f1960800000000000000
+      internalID: 7574831286026619169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_145
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 684
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0eba2362a201ba60800000000000000
+      internalID: 7687928935369850378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_146
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 684
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4cc9d6c2eb32cee0800000000000000
+      internalID: -1242364702016025524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_147
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 684
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9161db7eef47f4770800000000000000
+      internalID: 8597218851832010265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_148
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 684
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41dfa8461fa7c21c0800000000000000
+      internalID: -4527108348221653740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_149
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 684
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4a8f57315dae1f0800000000000000
+      internalID: -1014764486458301240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_150
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 684
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f893b382f0acf8fb0800000000000000
+      internalID: -4643270524347401841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_151
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 684
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9148cabdefb47bf50800000000000000
+      internalID: 6897064912320496665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_152
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 684
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7689d519333432da0800000000000000
+      internalID: -5970854792201922457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_153
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 570
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5469c827de424ad20800000000000000
+      internalID: 3288794230134969925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_154
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 570
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5d2b2b6d1d57e20800000000000000
+      internalID: 3347812618071102925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_155
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 570
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f84446ff5b92cf0800000000000000
+      internalID: -276489793603072163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_156
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 570
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fdd48fae1241b230800000000000000
+      internalID: 3652773472335355380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_157
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 570
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25be81f00bdcffe70800000000000000
+      internalID: 9151259123891366738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_158
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 570
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e576083b8164ac00800000000000000
+      internalID: 910960275203978728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_159
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 570
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e43dd2252569ea0800000000000000
+      internalID: -5866410951693873589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_160
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 570
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032a81a8cf8aea930800000000000000
+      internalID: 4156445308711641648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_161
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 570
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81eae390ad05af40800000000000000
+      internalID: 5739008283481137546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_162
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 456
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214cbb151fa5a9700800000000000000
+      internalID: 547850297183814674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_163
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 456
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd5382e6ab0e9260800000000000000
+      internalID: 7106130073429958074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_164
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 456
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c29d0eb2b2ca8f0800000000000000
+      internalID: -527999588853273500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_165
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 456
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b1d15544ad4d030800000000000000
+      internalID: 3518677195903802134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_166
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 456
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59506aad112b6f8a0800000000000000
+      internalID: -6271629641314335339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_167
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 456
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66d4946c6ddd80c0800000000000000
+      internalID: -4571754589097503124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_168
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 456
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52d6910dc872c510800000000000000
+      internalID: 1567948442168644188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_169
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 456
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30721420d725eb50800000000000000
+      internalID: 6621742602030051388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_170
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 456
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d58abec5253c4ce0800000000000000
+      internalID: -1419701346030156330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_171
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 342
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d772c1f8d7ebf1f0800000000000000
+      internalID: -1009958772459538480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_172
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 342
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f82f935aeb3a4c0800000000000000
+      internalID: -4277365604220760183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_173
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 342
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53cc4b1a7a31e6920800000000000000
+      internalID: 2985345213686664245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_174
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 342
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83f5d512962096b0800000000000000
+      internalID: -5291687153286909041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_175
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 342
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9109456b792dcafe0800000000000000
+      internalID: -1176333853609652199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_176
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 342
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc1047198eccf8b0800000000000000
+      internalID: -5116987988403807048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_177
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 342
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8161cb84547ae00800000000000000
+      internalID: 1055888816337197289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_178
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 342
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18878fc73e29626e0800000000000000
+      internalID: -1862639890119231359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_179
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 342
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d01fc91c88b78300800000000000000
+      internalID: 254374815837655256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 228
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a972b10c0caa64430800000000000000
+      internalID: 3766885883175446426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_181
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 228
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae6ff53757235610800000000000000
+      internalID: 1608672747422969506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_182
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 228
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5279f0ea84cf5400800000000000000
+      internalID: 315186599698199131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_183
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 228
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad8bfa526ecdaa40800000000000000
+      internalID: 5381184051606162859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_184
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 228
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84068b0dbe9afec50800000000000000
+      internalID: 6696758001207369800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_185
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 228
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6df0deac32502200800000000000000
+      internalID: 153212807915044202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_186
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 228
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554f03c6930d1e510800000000000000
+      internalID: 1576770289603245141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_187
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 228
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074ec5dc0d76f1960800000000000000
+      internalID: 7574887244756739184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_188
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 228
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c51c7698abb40a30800000000000000
+      internalID: 4180672686860277190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_189
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 114
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4baee1e7b088b70800000000000000
+      internalID: 8901377299810268345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_190
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 114
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afde44c72cbdd2d60800000000000000
+      internalID: 7867185752441155066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_191
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 114
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168fba6acc672a6d0800000000000000
+      internalID: -2980689382024152991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_192
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 114
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f872103da7ace30800000000000000
+      internalID: 4524563822323142450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_193
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 114
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b512a399cb8dd570800000000000000
+      internalID: 8493098170172183985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_194
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 114
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9133205c9a62d1df0800000000000000
+      internalID: -207967497192590567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_195
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 114
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2228dc4ef6037b940800000000000000
+      internalID: 5311767542644965922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_196
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 114
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793ddc84274967c80800000000000000
+      internalID: -8325303642579151977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_197
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 114
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b311eea5908590dc0800000000000000
+      internalID: -3672307223940427461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_198
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1615699392e33e160800000000000000
+      internalID: 7053549788173062497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Shake Fists_199
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b5afdcdc6be1aa0800000000000000
+      internalID: -6188307842920195214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

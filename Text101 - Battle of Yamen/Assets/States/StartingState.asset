@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2943239c46ebf4df18856dad82d2ef09, type: 3}
+  m_Name: StartingState
+  m_EditorClassIdentifier: 
+  storyText: "Soldiers rush past your window, their swords banging on their armors
+    and their shouts searing your eardrums. Behind you, the Chens cling to their
+    worn out clothes, the parents hushing their kids. Gao Fa stays in the opposite
+    corner, quiet, finishing his pebble soup hurriedly. Buddhist monks don't waste.
+    \n\nIf the naval bombardments don't get you first, the Mongols' swords, axes
+    and huochong firearms will do the trick. You've got to get out of here, but if
+    the Songs' guards spot you, you'll get drafted to the frontline.\n\nFortunately,
+    you've got a plan. You ALWAYS have a plan.\n\n1. Find a way to your junk to sail
+    out of the city.\n2. Use the smuggling tunnels to get out beyond the walls."
+  nextStates:
+  - {fileID: 11400000, guid: 45c6c29af6006463e8f00d16e90d1981, type: 2}
+  - {fileID: 11400000, guid: 400887613a00245099d6fad0c22c9531, type: 2}

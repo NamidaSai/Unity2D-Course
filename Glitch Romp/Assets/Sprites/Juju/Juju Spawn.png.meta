@@ -1,0 +1,1886 @@
+fileFormatVersion: 2
+guid: 36d06ee1ef72f4654bd8898c1d3272a0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5952641107705483263
+    second: Juju Spawn_0
+  - first:
+      213: -19491976519239814
+    second: Juju Spawn_1
+  - first:
+      213: 2030572971940788085
+    second: Juju Spawn_2
+  - first:
+      213: 7367361066930558755
+    second: Juju Spawn_3
+  - first:
+      213: 5248815892409593758
+    second: Juju Spawn_4
+  - first:
+      213: 3481180754284038613
+    second: Juju Spawn_5
+  - first:
+      213: 5536699854233336528
+    second: Juju Spawn_6
+  - first:
+      213: -3101591137658942213
+    second: Juju Spawn_7
+  - first:
+      213: 6194705646391589697
+    second: Juju Spawn_8
+  - first:
+      213: -2560570910465198399
+    second: Juju Spawn_9
+  - first:
+      213: 632033274713769749
+    second: Juju Spawn_10
+  - first:
+      213: 8851811600248178817
+    second: Juju Spawn_11
+  - first:
+      213: -798170852239450064
+    second: Juju Spawn_12
+  - first:
+      213: -3372883477403331038
+    second: Juju Spawn_13
+  - first:
+      213: -2738728992060974332
+    second: Juju Spawn_14
+  - first:
+      213: -4253512244112314857
+    second: Juju Spawn_15
+  - first:
+      213: 6512002727143887914
+    second: Juju Spawn_16
+  - first:
+      213: 1761481583011434615
+    second: Juju Spawn_17
+  - first:
+      213: 7013543773624217758
+    second: Juju Spawn_18
+  - first:
+      213: -6729256065364847058
+    second: Juju Spawn_19
+  - first:
+      213: 6858492871647995149
+    second: Juju Spawn_20
+  - first:
+      213: 4778005252296316046
+    second: Juju Spawn_21
+  - first:
+      213: -2433187659534799227
+    second: Juju Spawn_22
+  - first:
+      213: -6713485515875368583
+    second: Juju Spawn_23
+  - first:
+      213: -8951349855434559055
+    second: Juju Spawn_24
+  - first:
+      213: 2204386739160569602
+    second: Juju Spawn_25
+  - first:
+      213: -1825627435659336516
+    second: Juju Spawn_26
+  - first:
+      213: -6226924540004803871
+    second: Juju Spawn_27
+  - first:
+      213: 4806864772339767364
+    second: Juju Spawn_28
+  - first:
+      213: -7968305320368340441
+    second: Juju Spawn_29
+  - first:
+      213: -5959703356786355278
+    second: Juju Spawn_30
+  - first:
+      213: 343561938397080027
+    second: Juju Spawn_31
+  - first:
+      213: -1413228494687220006
+    second: Juju Spawn_32
+  - first:
+      213: -7178559744064928224
+    second: Juju Spawn_33
+  - first:
+      213: -4788701697220396606
+    second: Juju Spawn_34
+  - first:
+      213: -7501976793941539185
+    second: Juju Spawn_35
+  - first:
+      213: 7948660536791590942
+    second: Juju Spawn_36
+  - first:
+      213: 4451205399766735648
+    second: Juju Spawn_37
+  - first:
+      213: -3724890733879537419
+    second: Juju Spawn_38
+  - first:
+      213: -6370335062083423072
+    second: Juju Spawn_39
+  - first:
+      213: -7908274095095649200
+    second: Juju Spawn_40
+  - first:
+      213: 1573622730752078830
+    second: Juju Spawn_41
+  - first:
+      213: 2179617916301060300
+    second: Juju Spawn_42
+  - first:
+      213: -1033097542311930430
+    second: Juju Spawn_43
+  - first:
+      213: 1618283739218012078
+    second: Juju Spawn_44
+  - first:
+      213: 8439640872846549302
+    second: Juju Spawn_45
+  - first:
+      213: 8182559979099939675
+    second: Juju Spawn_46
+  - first:
+      213: -6257778171405588730
+    second: Juju Spawn_47
+  - first:
+      213: -6171085068289851552
+    second: Juju Spawn_48
+  - first:
+      213: -4622436811261600562
+    second: Juju Spawn_49
+  - first:
+      213: 4751178004750198468
+    second: Juju Spawn_50
+  - first:
+      213: 6953048446448644651
+    second: Juju Spawn_51
+  - first:
+      213: -4728847509122453116
+    second: Juju Spawn_52
+  - first:
+      213: -2810107239748317074
+    second: Juju Spawn_53
+  - first:
+      213: 8108395754262858080
+    second: Juju Spawn_54
+  - first:
+      213: -4701762455562724102
+    second: Juju Spawn_55
+  - first:
+      213: -2808878549327669810
+    second: Juju Spawn_56
+  - first:
+      213: 5523351668943722733
+    second: Juju Spawn_57
+  - first:
+      213: -806117613506964747
+    second: Juju Spawn_58
+  - first:
+      213: 4932463011629727952
+    second: Juju Spawn_59
+  - first:
+      213: 8359518803992932512
+    second: Juju Spawn_0
+  - first:
+      213: 2714895871822657186
+    second: Juju Spawn_1
+  - first:
+      213: 6567415072595827353
+    second: Juju Spawn_2
+  - first:
+      213: -2552401060483199614
+    second: Juju Spawn_3
+  - first:
+      213: -2509060133521339859
+    second: Juju Spawn_4
+  - first:
+      213: -709036667179782649
+    second: Juju Spawn_5
+  - first:
+      213: -1845130811367095973
+    second: Juju Spawn_6
+  - first:
+      213: -9089460505611701990
+    second: Juju Spawn_7
+  - first:
+      213: 4448557431534077853
+    second: Juju Spawn_8
+  - first:
+      213: -6268777362538284090
+    second: Juju Spawn_9
+  - first:
+      213: 4258294063677142578
+    second: Juju Spawn_10
+  - first:
+      213: -8706001135129196936
+    second: Juju Spawn_11
+  - first:
+      213: -3391195308896454339
+    second: Juju Spawn_12
+  - first:
+      213: -2575481510206093347
+    second: Juju Spawn_13
+  - first:
+      213: -8075748890379744818
+    second: Juju Spawn_14
+  - first:
+      213: 4408620308372993572
+    second: Juju Spawn_15
+  - first:
+      213: -7209903119062312793
+    second: Juju Spawn_16
+  - first:
+      213: 4417683324549767437
+    second: Juju Spawn_17
+  - first:
+      213: -3667838319528996674
+    second: Juju Spawn_18
+  - first:
+      213: -278267168266789803
+    second: Juju Spawn_19
+  - first:
+      213: 7667183267520642627
+    second: Juju Spawn_20
+  - first:
+      213: -7770117188132307453
+    second: Juju Spawn_21
+  - first:
+      213: 502944866085423230
+    second: Juju Spawn_22
+  - first:
+      213: 312543319644415508
+    second: Juju Spawn_23
+  - first:
+      213: 1686180175016948982
+    second: Juju Spawn_24
+  - first:
+      213: 8060294284599772405
+    second: Juju Spawn_25
+  - first:
+      213: -4341876854440735367
+    second: Juju Spawn_26
+  - first:
+      213: -4819032232111694628
+    second: Juju Spawn_27
+  - first:
+      213: -7735523097681954981
+    second: Juju Spawn_28
+  - first:
+      213: -4554632725599953127
+    second: Juju Spawn_29
+  - first:
+      213: 781074682225218349
+    second: Juju Spawn_30
+  - first:
+      213: 1149135969385762268
+    second: Juju Spawn_31
+  - first:
+      213: 5597268793921152140
+    second: Juju Spawn_32
+  - first:
+      213: 1784839143685586039
+    second: Juju Spawn_33
+  - first:
+      213: -7932073899479552665
+    second: Juju Spawn_34
+  - first:
+      213: -2766547621517401852
+    second: Juju Spawn_35
+  - first:
+      213: 8073591783953978150
+    second: Juju Spawn_36
+  - first:
+      213: -7958750682884483435
+    second: Juju Spawn_37
+  - first:
+      213: -3241516479724607891
+    second: Juju Spawn_38
+  - first:
+      213: 2410394978346819374
+    second: Juju Spawn_39
+  - first:
+      213: 6121044427687748447
+    second: Juju Spawn_40
+  - first:
+      213: 3554147760417708412
+    second: Juju Spawn_41
+  - first:
+      213: -8764048762556975492
+    second: Juju Spawn_42
+  - first:
+      213: -875280330227946794
+    second: Juju Spawn_43
+  - first:
+      213: 7465120925005085560
+    second: Juju Spawn_44
+  - first:
+      213: -5612606304253879204
+    second: Juju Spawn_45
+  - first:
+      213: -7843107133171466299
+    second: Juju Spawn_46
+  - first:
+      213: -6026948141511300607
+    second: Juju Spawn_47
+  - first:
+      213: -2199765387852836867
+    second: Juju Spawn_48
+  - first:
+      213: 6203141473628726808
+    second: Juju Spawn_49
+  - first:
+      213: -7452761949855711960
+    second: Juju Spawn_50
+  - first:
+      213: -784080070721137607
+    second: Juju Spawn_51
+  - first:
+      213: 3151232432455044795
+    second: Juju Spawn_52
+  - first:
+      213: 7506613034695987305
+    second: Juju Spawn_53
+  - first:
+      213: 6049492910831355023
+    second: Juju Spawn_54
+  - first:
+      213: -4028342915628151950
+    second: Juju Spawn_55
+  - first:
+      213: -1844376667078425539
+    second: Juju Spawn_56
+  - first:
+      213: 918707160003590604
+    second: Juju Spawn_57
+  - first:
+      213: -6244555203794858144
+    second: Juju Spawn_58
+  - first:
+      213: -4018990590558404098
+    second: Juju Spawn_59
+  - first:
+      213: 5845149548171350714
+    second: Juju Spawn_60
+  - first:
+      213: 2885552794811048764
+    second: Juju Spawn_61
+  - first:
+      213: 6314280922725543498
+    second: Juju Spawn_62
+  - first:
+      213: 5144118285795631972
+    second: Juju Spawn_63
+  - first:
+      213: -5601424012691801176
+    second: Juju Spawn_64
+  - first:
+      213: -4584753297427298069
+    second: Juju Spawn_65
+  - first:
+      213: 908055267639599192
+    second: Juju Spawn_66
+  - first:
+      213: -8050011129890547315
+    second: Juju Spawn_67
+  - first:
+      213: -6141562312617387362
+    second: Juju Spawn_68
+  - first:
+      213: 3600409870477677841
+    second: Juju Spawn_69
+  - first:
+      213: 6935043309689719121
+    second: Juju Spawn_70
+  - first:
+      213: -3784380847521431894
+    second: Juju Spawn_71
+  - first:
+      213: -7773705202303801066
+    second: Juju Spawn_72
+  - first:
+      213: -7306302681526601923
+    second: Juju Spawn_73
+  - first:
+      213: -5292969435217233861
+    second: Juju Spawn_74
+  - first:
+      213: -1264470976515704012
+    second: Juju Spawn_75
+  - first:
+      213: -3230274864262184580
+    second: Juju Spawn_76
+  - first:
+      213: 8603953373301315787
+    second: Juju Spawn_77
+  - first:
+      213: -317115899502130849
+    second: Juju Spawn_78
+  - first:
+      213: -2988793898473293117
+    second: Juju Spawn_79
+  - first:
+      213: -6837448343542116252
+    second: Juju Spawn_80
+  - first:
+      213: -3136913403962176357
+    second: Juju Spawn_81
+  - first:
+      213: 1284085575455237643
+    second: Juju Spawn_82
+  - first:
+      213: 1855962917945410404
+    second: Juju Spawn_83
+  - first:
+      213: -3091569054892609953
+    second: Juju Spawn_84
+  - first:
+      213: -5307460796336073658
+    second: Juju Spawn_85
+  - first:
+      213: -6778253779165898645
+    second: Juju Spawn_86
+  - first:
+      213: 6416195708684296244
+    second: Juju Spawn_87
+  - first:
+      213: 2395684823684130904
+    second: Juju Spawn_88
+  - first:
+      213: -105931704905334119
+    second: Juju Spawn_89
+  - first:
+      213: 1467938960130517190
+    second: Juju Spawn_90
+  - first:
+      213: 5692031484306222103
+    second: Juju Spawn_91
+  - first:
+      213: 508144836000479722
+    second: Juju Spawn_92
+  - first:
+      213: 1961868824244258495
+    second: Juju Spawn_93
+  - first:
+      213: 7477981629315278417
+    second: Juju Spawn_94
+  - first:
+      213: 4736629637105772068
+    second: Juju Spawn_95
+  - first:
+      213: -7705915076187811449
+    second: Juju Spawn_96
+  - first:
+      213: -8618562686775487501
+    second: Juju Spawn_97
+  - first:
+      213: -3304943751226694845
+    second: Juju Spawn_98
+  - first:
+      213: 3098991906746689581
+    second: Juju Spawn_99
+  - first:
+      213: -5377707055551920911
+    second: Juju Spawn_100
+  - first:
+      213: -7602601777933605955
+    second: Juju Spawn_101
+  - first:
+      213: -8291887509077944282
+    second: Juju Spawn_60
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Juju Spawn_0
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 798
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a07235cf0af20470800000000000000
+      internalID: 8359518803992932512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Spawn_1
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 798
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6f92a496f3da520800000000000000
+      internalID: 2714895871822657186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Spawn_2
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 798
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ade9e7635242b50800000000000000
+      internalID: 6567415072595827353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Spawn_3
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 798
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d819932cc049cd0800000000000000
+      internalID: -2552401060483199614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Spawn_4
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 798
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2acd552a170e2dd0800000000000000
+      internalID: -2509060133521339859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Spawn_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 684
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ea50868eef826f0800000000000000
+      internalID: -709036667179782649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Spawn_6
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 684
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5106509d47c466e0800000000000000
+      internalID: -1845130811367095973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Spawn_7
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 684
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11721304dfbbd180800000000000000
+      internalID: -9089460505611701990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Spawn_8
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 684
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97438d1a637cbd30800000000000000
+      internalID: 4448557431534077853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Spawn_9
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 684
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb35e1c334d009a0800000000000000
+      internalID: -6268777362538284090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Spawn_10
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 684
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23671a6b3ef781b30800000000000000
+      internalID: 4258294063677142578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Spawn_11
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 684
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8760a7e08121e2780800000000000000
+      internalID: -8706001135129196936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Spawn_12
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 684
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39714975dd00f0d0800000000000000
+      internalID: -3391195308896454339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Spawn_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 570
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd74492463d024cd0800000000000000
+      internalID: -2575481510206093347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Spawn_14
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 570
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec909addb2d2def80800000000000000
+      internalID: -8075748890379744818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Spawn_15
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 570
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426352600d09e2d30800000000000000
+      internalID: 4408620308372993572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Spawn_16
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 570
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a85f4b105741fb90800000000000000
+      internalID: -7209903119062312793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Spawn_17
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 570
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01a4f9e393ce4d30800000000000000
+      internalID: 4417683324549767437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Spawn_18
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 570
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb098ee3b78391dc0800000000000000
+      internalID: -3667838319528996674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Spawn_19
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 570
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55cddca1c75632cf0800000000000000
+      internalID: -278267168266789803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Spawn_20
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 570
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ef2603f8e476a60800000000000000
+      internalID: 7667183267520642627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Spawn_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 456
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e7732d59ffa2490800000000000000
+      internalID: -7770117188132307453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Spawn_22
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 456
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78c0a4e0b1daf600800000000000000
+      internalID: 502944866085423230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Spawn_23
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 456
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416a3584e70665400800000000000000
+      internalID: 312543319644415508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Spawn_24
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 456
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4f0377fe3866710800000000000000
+      internalID: 1686180175016948982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Spawn_25
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 456
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f44ea252faebdf60800000000000000
+      internalID: 8060294284599772405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Spawn_26
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 456
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97dc190510e8eb3c0800000000000000
+      internalID: -4341876854440735367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Spawn_27
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 456
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc13db97bb5f1db0800000000000000
+      internalID: -4819032232111694628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Spawn_28
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 456
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5776da2ab6e5a490800000000000000
+      internalID: -7735523097681954981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Spawn_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 342
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91fde34eaa1bac0c0800000000000000
+      internalID: -4554632725599953127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Spawn_30
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 342
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23d511094fe6da00800000000000000
+      internalID: 781074682225218349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Spawn_31
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 342
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cddccd5631d82ff00800000000000000
+      internalID: 1149135969385762268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Spawn_32
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 342
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84ac0eff4e7dad40800000000000000
+      internalID: 5597268793921152140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Spawn_33
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 342
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c7794aeb505c810800000000000000
+      internalID: 1784839143685586039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Spawn_34
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 342
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76daf5970dc9be190800000000000000
+      internalID: -7932073899479552665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Spawn_35
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 342
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401e045989f3b99d0800000000000000
+      internalID: -2766547621517401852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Spawn_36
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 342
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623d618a3f82b0070800000000000000
+      internalID: 8073591783953978150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Spawn_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 228
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596d5c2db66dc8190800000000000000
+      internalID: -7958750682884483435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Spawn_38
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 228
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66a07c9fe1d303d0800000000000000
+      internalID: -3241516479724607891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Spawn_39
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 228
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f5fb44671737120800000000000000
+      internalID: 2410394978346819374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Spawn_40
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 228
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5366bee97152f450800000000000000
+      internalID: 6121044427687748447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Spawn_41
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 228
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7992f2be8ed25130800000000000000
+      internalID: 3554147760417708412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Spawn_42
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 228
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76f6999518df5680800000000000000
+      internalID: -8764048762556975492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Spawn_43
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 228
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da60e55d216ad3f0800000000000000
+      internalID: -875280330227946794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Spawn_44
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 228
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b734cedef699760800000000000000
+      internalID: 7465120925005085560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Spawn_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 114
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c54da9d440c12b0800000000000000
+      internalID: -5612606304253879204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Spawn_46
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 114
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf7bffed9fa72390800000000000000
+      internalID: -7843107133171466299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Spawn_47
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 114
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10aa481f89afb5ca0800000000000000
+      internalID: -6026948141511300607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Spawn_48
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 114
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff05dbd80dd871e0800000000000000
+      internalID: -2199765387852836867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Spawn_49
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 114
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816222bfd4cf51650800000000000000
+      internalID: 6203141473628726808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Spawn_50
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 114
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d7d473e78729890800000000000000
+      internalID: -7452761949855711960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Spawn_51
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 114
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934143574536e15f0800000000000000
+      internalID: -784080070721137607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Spawn_52
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 114
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe4c2d833d6bbb20800000000000000
+      internalID: 3151232432455044795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Spawn_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9601f5788c8dc2860800000000000000
+      internalID: 7506613034695987305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Spawn_54
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84c85530cd14f350800000000000000
+      internalID: 6049492910831355023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Spawn_55
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27bc58816737818c0800000000000000
+      internalID: -4028342915628151950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Spawn_56
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 0
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3485c671357766e0800000000000000
+      internalID: -1844376667078425539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Spawn_57
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc93f946b47efbc00800000000000000
+      internalID: 918707160003590604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Spawn_58
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 0
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f8d719022e659a0800000000000000
+      internalID: -6244555203794858144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Spawn_59
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 0
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef10126f95da938c0800000000000000
+      internalID: -4018990590558404098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Spawn_60
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 0
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62819e72e3c4dec80800000000000000
+      internalID: -8291887509077944282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

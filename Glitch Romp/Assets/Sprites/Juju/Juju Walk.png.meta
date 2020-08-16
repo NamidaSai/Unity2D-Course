@@ -1,0 +1,617 @@
+fileFormatVersion: 2
+guid: 6efa40929b0624e90ba0612af50e5e4a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1262750829837244357
+    second: Juju Walk_0
+  - first:
+      213: -566596917317159742
+    second: Juju Walk_1
+  - first:
+      213: 5456950141328933921
+    second: Juju Walk_2
+  - first:
+      213: -5639210025588044758
+    second: Juju Walk_3
+  - first:
+      213: -435147485805482828
+    second: Juju Walk_4
+  - first:
+      213: -4442837679746639760
+    second: Juju Walk_5
+  - first:
+      213: 2381465156506001495
+    second: Juju Walk_6
+  - first:
+      213: -4833244568907080144
+    second: Juju Walk_7
+  - first:
+      213: -7204490489811869379
+    second: Juju Walk_8
+  - first:
+      213: 6839237129087994001
+    second: Juju Walk_9
+  - first:
+      213: 3539562495772000695
+    second: Juju Walk_10
+  - first:
+      213: -3471449312470354033
+    second: Juju Walk_11
+  - first:
+      213: -7632716700911904390
+    second: Juju Walk_12
+  - first:
+      213: -3865850765904433495
+    second: Juju Walk_13
+  - first:
+      213: -1867187659654636913
+    second: Juju Walk_14
+  - first:
+      213: -8997412164826486323
+    second: Juju Walk_15
+  - first:
+      213: -1995458768711165156
+    second: Juju Walk_0
+  - first:
+      213: -3210481201959001400
+    second: Juju Walk_1
+  - first:
+      213: 77371096347908106
+    second: Juju Walk_2
+  - first:
+      213: -7395438804420710579
+    second: Juju Walk_3
+  - first:
+      213: 138333083541554549
+    second: Juju Walk_4
+  - first:
+      213: 8494391203700104325
+    second: Juju Walk_5
+  - first:
+      213: -912784920449254566
+    second: Juju Walk_6
+  - first:
+      213: -5611904939139765145
+    second: Juju Walk_7
+  - first:
+      213: 1337972359273757053
+    second: Juju Walk_8
+  - first:
+      213: 6084674350488840772
+    second: Juju Walk_9
+  - first:
+      213: 7373198186153118425
+    second: Juju Walk_10
+  - first:
+      213: -220474276393976683
+    second: Juju Walk_11
+  - first:
+      213: 7749577233723656891
+    second: Juju Walk_12
+  - first:
+      213: 7268938933729165750
+    second: Juju Walk_13
+  - first:
+      213: 3576373665176594613
+    second: Juju Walk_14
+  - first:
+      213: 3658614984880730599
+    second: Juju Walk_15
+  - first:
+      213: 2931965632197892535
+    second: Juju Walk_16
+  - first:
+      213: -7363419463083835397
+    second: Juju Walk_17
+  - first:
+      213: -6640058103164441697
+    second: Juju Walk_18
+  - first:
+      213: 5961975394406485376
+    second: Juju Walk_19
+  - first:
+      213: 2676545677636099815
+    second: Juju Walk_20
+  - first:
+      213: 9107852681294194044
+    second: Juju Walk_21
+  - first:
+      213: -6177719036084992925
+    second: Juju Walk_22
+  - first:
+      213: -77847657026705012
+    second: Juju Walk_23
+  - first:
+      213: -6397429045553322299
+    second: Juju Walk_24
+  - first:
+      213: -8299264505827666568
+    second: Juju Walk_25
+  - first:
+      213: -8565641203174438104
+    second: Juju Walk_26
+  - first:
+      213: -8298833673709959072
+    second: Juju Walk_27
+  - first:
+      213: -52694712214155729
+    second: Juju Walk_28
+  - first:
+      213: 7862244680472995479
+    second: Juju Walk_29
+  - first:
+      213: -3889543678162455648
+    second: Juju Walk_30
+  - first:
+      213: 1311904734687126253
+    second: Juju Walk_31
+  - first:
+      213: 5098885582425193978
+    second: Juju Walk_32
+  - first:
+      213: 2322341398023167957
+    second: Juju Walk_33
+  - first:
+      213: 8717758258601356974
+    second: Juju Walk_34
+  - first:
+      213: 6212165922285959108
+    second: Juju Walk_35
+  - first:
+      213: -5043555982813999040
+    second: Juju Walk_36
+  - first:
+      213: -3525431164610311729
+    second: Juju Walk_37
+  - first:
+      213: 6910849932548788211
+    second: Juju Walk_38
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Juju Walk_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 114
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b580f72d4be44e0800000000000000
+      internalID: -1995458768711165156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Walk_1
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 114
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c22a2f4b541273d0800000000000000
+      internalID: -3210481201959001400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Walk_2
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 114
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0813b92a90e21100800000000000000
+      internalID: 77371096347908106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Walk_3
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 114
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f2d50179f1e5990800000000000000
+      internalID: -7395438804420710579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Walk_4
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 114
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575cd21e4357be100800000000000000
+      internalID: 138333083541554549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Walk_5
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 114
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c5fb76bc322e570800000000000000
+      internalID: 8494391203700104325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Walk_6
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 114
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5bf94473f22553f0800000000000000
+      internalID: -912784920449254566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Walk_7
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 114
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c6055e0328e12b0800000000000000
+      internalID: -5611904939139765145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Walk_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79bdc995ce619210800000000000000
+      internalID: 1337972359273757053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Walk_9
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a61d2751b117450800000000000000
+      internalID: 6084674350488840772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Walk_10
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da06387facd25660800000000000000
+      internalID: 7373198186153118425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Walk_11
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 0
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59cfc6150d7b0fcf0800000000000000
+      internalID: -220474276393976683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Walk_12
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba8d8f5f670c8b60800000000000000
+      internalID: 7749577233723656891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Walk_13
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 0
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b10fee927570e460800000000000000
+      internalID: 7268938933729165750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Walk_14
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 0
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8a9e866e4d1a130800000000000000
+      internalID: 3576373665176594613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Juju Walk_15
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 0
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1bcbfc1f206c230800000000000000
+      internalID: 3658614984880730599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
